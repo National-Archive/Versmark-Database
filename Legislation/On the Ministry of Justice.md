@@ -4,7 +4,7 @@ Proposed by: Wald Friedli, Sovereign of Versmark
 Legislation Type: General
 Integration Type: National
 
-**Title: On the Ministry of Justice
+** On the Ministry of Justice
 
 The Ministry of Justice may be allowed to enforce the Law of Versmark, with the assistance of the
 following:
