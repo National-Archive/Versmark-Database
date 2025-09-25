@@ -1,7 +1,11 @@
 Proposal #: No. 00001
+
 Date: 5-2-2023
+
 Proposed by: Wald Friedli, Sovereign of Versmark
+
 Legislation Type: General
+
 Integration Type: National
 
 ## On the Ministry of Justice
